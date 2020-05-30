@@ -1,0 +1,1 @@
+# betastop_google_cloud
